@@ -2,7 +2,11 @@
 ![hello_there](https://lh3.googleusercontent.com/proxy/iZwrbOqaoTL0JhX5_WRTYKTVr43ASG2PHRTkhtUkWlfh7huGL4tvMCU_VmAg5IqiEiA1tT2fIzeilc5grXG3oC43yA)
 <!--
 **lucho-capomolla/lucho-capomolla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
 
+📚 Actualmente estudiando la carrera de Ingeniería en Sistemas de Información.
+
+<!--
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
