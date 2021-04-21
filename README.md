@@ -1,5 +1,5 @@
 ### Hello there 👋
-![hello_there](https://lh3.googleusercontent.com/proxy/iZwrbOqaoTL0JhX5_WRTYKTVr43ASG2PHRTkhtUkWlfh7huGL4tvMCU_VmAg5IqiEiA1tT2fIzeilc5grXG3oC43yA)
+![hello_there](https://scontent.feze10-1.fna.fbcdn.net/v/t1.6435-9/37284602_636977710014758_3861383204938186752_n.jpg?_nc_cat=104&ccb=1-3&_nc_sid=e3f864&_nc_ohc=yD6VTCzFpXsAX-Fl44f&_nc_ht=scontent.feze10-1.fna&oh=4c03b0e0a585b4aec16e1807c3b2994b&oe=60A65EA3)
 <!--
 **lucho-capomolla/lucho-capomolla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
